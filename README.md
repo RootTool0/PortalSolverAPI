@@ -1,5 +1,11 @@
+
+
+
+
+
 # [<img width="40" height="40" alt="Portal Solver Logo Redesigned" src="https://github.com/user-attachments/assets/53a61561-d21d-4eab-884b-80a338c4d78f" />](https://gamejolt.com/games/PortalSolver/898591) PortalSolverAPI
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667](https://github.com/user-attachments/assets/2deeb2f0-95f7-4853-a7f4-b53a9d41c7a5)](https://opensource.org/license/mit) [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/86275d71-194b-497e-84bc-7f781660de42)](https://www.python.org)
+[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545343f7374796c653d666c6174266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 <details>
 
 <summary>Russian</summary>
@@ -65,5 +71,9 @@ pip install -e .
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545343f7374796c653d666c6174266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/e2270995-0301-4948-951e-0cea9081f163)](https://t.me/PortalSolver)- Новостной канал Portal: Solver. Вы можете следить за новостями проекта, в будущем мы планируем также предоставить возможность общения через него.<br>
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545343f7374796c653d666c6174266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/GameJolt-306230?style=flat&logo=gamejolt&logoColor=white)](https://gamejolt.com/games/PortalSolver/898591) - Страница Portal: Solver на GameJolt. Там вы можете скачать саму игру и поддержать наш проект.<br>
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666c6174266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/3a2f8afb-8ca1-4374-925b-373dd133846f)](https://www.youtube.com/@AbsoluteIsScience) - Канал по разработке нашей игры. Там выходят основные новости и трейлеры.<br>
+
+## <br>👥 Особые благодарности
+
+[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d736f6369616c266c6f676f3d676974687562266c6f676f436f6c6f723d626c61636b](https://github.com/user-attachments/assets/93f34dd7-c2a6-4304-acff-dd17479d5b7d)](https://github.com/henriquesebastiao/badges) - За предоставление бейджиков.
 
 </details>
