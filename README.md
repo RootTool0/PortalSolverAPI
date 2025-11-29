@@ -74,6 +74,6 @@ pip install -e .
 
 ## <br>👥 Особые благодарности
 
-[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d736f6369616c266c6f676f3d676974687562266c6f676f436f6c6f723d626c61636b](https://github.com/user-attachments/assets/93f34dd7-c2a6-4304-acff-dd17479d5b7d)](https://github.com/henriquesebastiao/badges) - За предоставление бейджиков.
+[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d736f6369616c266c6f676f3d676974687562266c6f676f436f6c6f723d626c61636b](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/henriquesebastiao/badges) - За предоставление бейджиков.
 
 </details>
